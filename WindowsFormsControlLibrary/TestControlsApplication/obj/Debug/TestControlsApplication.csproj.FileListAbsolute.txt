@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\bin\Debug\TestControlsApplication.exe.config
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\bin\Debug\TestControlsApplication.exe
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\bin\Debug\TestControlsApplication.pdb
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.exe
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.pdb
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\bin\Debug\LabControls.dll
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\bin\Debug\LabControls.pdb
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.csproj.CopyComplete
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.MainForm.resources
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.SpecifyColor.resources
+C:\Users\User\source\repos\WindowsFormsControlLibrary\TestControlsApplication\obj\Debug\TestControlsApplication.TimeForm.resources

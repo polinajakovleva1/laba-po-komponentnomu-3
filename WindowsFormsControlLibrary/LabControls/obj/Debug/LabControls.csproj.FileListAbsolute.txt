@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\bin\Debug\LabControls.dll
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\bin\Debug\LabControls.pdb
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.dll
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.pdb
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.FilePathSelect.resources
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\CurrentTime.g.cs
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls_MarkupCompile.cache
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls_MarkupCompile.lref
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\CurrentTime.baml
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.g.resources
+C:\Users\User\source\repos\WindowsFormsControlLibrary\LabControls\obj\Debug\LabControls.ColorSpecify.resources
